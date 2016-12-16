@@ -7,6 +7,7 @@ A curated list of Modern C++ idioms.
 ## Preface
 
 > <cite>C++ has indeed become too "expert friendly" -- Bjarne Stroustrup, The Problem with Programming, Technology Review, Nov 2006.</cite>
+
 Stroustrup's saying is true because experts are intimately familiar with the idioms in the language. With the increase in the idioms a programmer understands, the language becomes friendlier to him or her. The objective of CppIdioms is to present modern C++ idioms to programmers who have moderate level of familiarity with C++, and help elevate their knowledge so that C++ feels much friendlier to them. It is designed to be an exhaustive catalog of reusable idioms that expert C++ programmers often use while programming or designing using C++. This is an effort to capture their techniques and vocabulary into a single work. This book describes the idioms in a regular format: Name-Intent-Motivation-Solution-References, which is succinct and helps speed learning. By their nature, idioms tend to have appeared in the C++ community and in published work many times. An effort has been made to refer to the original source(s) where possible; if you find a reference incomplete or incorrect, please feel free to suggest or make improvements.
 
 ## Table of Contents
