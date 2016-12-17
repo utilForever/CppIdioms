@@ -12,7 +12,16 @@ Stroustrup's saying is true because experts are intimately familiar with the idi
 
 ## Table of Contents
 
-TBA
+1. Variadic Argument Macro
+2. Multi State Macro
+3. Name Macro
+4. INTSIZEOF
+5. offset_of
+6. Flexible Array
+7. Virtual Friend Function
+8. Making New Friend
+9. addressof
+10. Policy Base Design
 
 ## License
 
