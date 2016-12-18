@@ -13,7 +13,7 @@ Stroustrup's saying is true because experts are intimately familiar with the idi
 ## Table of Contents
 
 1. Variadic Argument Macro
-2. Multi State Macro
+2. Multi Statement Macro
 3. Name Macro
 4. INTSIZEOF
 5. offset_of
@@ -22,6 +22,39 @@ Stroustrup's saying is true because experts are intimately familiar with the idi
 8. Making New Friend
 9. addressof
 10. Policy Base Design
+11. Require or Prohibiting Heap Object
+12. SFINAE (Substitution Failure Is Not An Error)
+13. enable_if
+14. Type Selection
+15. Identity
+16. Return Type Resolver
+17. reference_wrapper
+18. Two Phase Constructor
+19. Calling Virtuals during Initialization
+20. Dynamic Creation
+21. RTTI (Run-Time Type Identification)
+22. Capability Query
+23. Coercion by Member Template
+24. Covariant Return Type
+25. Attach by Initialization
+26. Clear and Minimize
+27. Placement New
+28. Generic Container idioms
+29. Meta Function
+30. Policy Clone
+31. Safe bool
+32. Thin Template
+33. RVO (Return Value Optimization), NRVO (Named RVO)
+34. Checked Delete
+35. Temporary Proxy
+36. Traits
+37. int to Type
+38. Pimpl
+39. Empty Class
+40. Tag Dispatching
+41. Type List
+42. Exception Safety
+43. Trivial
 
 ## License
 
